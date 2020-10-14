@@ -4,7 +4,7 @@ import App from 'frinx-workflow-ui/lib/App'
 
 const conductorApiUrlPrefix = "/uniflow/api/conductor";
 const frontendUrlPrefix = "/uniflow/ui";
-const enableScheduling = false;
+const enableScheduling = true;
 const disabledTasks = ["js", "py", "graphQL"];
 const prefixHttpTask = '';
 

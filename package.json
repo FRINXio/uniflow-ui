@@ -8,7 +8,7 @@
     "css-loader": "^3.5.3",
     "express": "^4.17.1",
     "file-loader": "^6.0.0",
-    "frinx-workflow-ui": "latest",
+    "frinx-workflow-ui": "1.1.61",
     "html-loader": "^1.1.0",
     "node-sass": "^4.14.1",
     "react": "^16.8.4",

@@ -11,7 +11,7 @@ module.exports = {
         disableHostCheck: true,
     },
     output: {
-        publicPath: '/',
+        publicPath: '/uniflow/ui',
     },
     devtool: 'source-map',
     module: {
